@@ -3,8 +3,8 @@ class Marquee < Formula
 
   desc "Sort torrented movies and series using a local Ollama model"
   homepage "https://github.com/b-vanstraaten/marquee"
-  url "https://github.com/b-vanstraaten/marquee/archive/refs/tags/v0.3.2.tar.gz"
-  sha256 "1025440c507ebf3b10c73a96b46b3a48eb76b3ba9ffbe3466ffdcb6dd80a7375"
+  url "https://github.com/b-vanstraaten/marquee/archive/refs/tags/v0.3.3.tar.gz"
+  sha256 "ad2f4d40ee0006798dc37dac7127b22cb440ab8dbfe911330ba240240dc2f57d"
   license "MIT"
 
   depends_on "ollama"
